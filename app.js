@@ -21,5 +21,12 @@ switch (day) {
   break;
 }
 
+
 // 2
+let a = prompt("введіть число a"); 
+let b = prompt("введіть число b"); 
+let c = a<b; 
+alert(c);
+
+// 3
 
